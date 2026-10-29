@@ -4,7 +4,7 @@ __pycache__/
 .streamlit/secrets.toml
 models/*.pth
 models/*.pt
-data/
+data/horse2zebra/
 outputs/
 results/
 *.log
