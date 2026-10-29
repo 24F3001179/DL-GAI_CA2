@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+models/*.pth
+models/*.pt
+data/
+outputs/
+results/
+*.log
+.pytest_cache/
+.presentation-build/
